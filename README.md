@@ -12,7 +12,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/fahad6754-eng/ticktaktoe.git
-   cd ticktaktoe
+   cd tic_tac_toe
 
 2. Run the game:
 
